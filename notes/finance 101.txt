@@ -1,0 +1,48 @@
+Long term capital gain - means that if you hold a share for more than one year and then make profit selling it, you need not pay tax legally on that gain.
+
+Dividend - Its like interest on shares and company has authority on whether or not to pay dividends to its share holders. In short, interests are given on FD's which are fixed at a percent, but dividends are not fixed and may or may not be provided to share holders. 
+The company may think that its better for investors to keep the money with company so that they can increase its value. 
+
+Important difference between interest and dividend is that interest gained is taxable but dividend is in most cases tax free. 
+
+Check for dividend and LTCG tax exemptions.
+
+Dividend tax is 10% on above 5000 rupees paid by individuals. For covid relief the percentage has been reduced to 7.5. 
+
+Promoter - The person who starts the company, and he is technically the one who sells the first shares of the company. It could be a single person or in some cases a group of people. 
+
+Face Value - Its the fictional value of the company shares decided by the promoters in the beginning. So, basically, FV is the value of the each share of a certain company when the initial round of investors invested money in it. 
+
+Share certificate - It is a document which is given by a company to individuals who invest money in the company. 
+
+Top-line growth - turnover of a company in one financial year.
+Bottom-line growth - Profit of a company after tax. 
+
+Stock Split - Its when the company decides to alter the FV of the shares so that the number of shares available for sale would increase and would lead to more shares available for trading. The existing share holders would not incur a loss in this process, but for the general observer the share price seems to have fallen down.
+
+Closing value - The price at which a particular company's share closed at 3:30PM the previous day. 
+
+LTP - Last traded price. The current price of a share at any given time between 9:30AM and 3:30PM. LTP can vary throughout the day. 
+
+The BSE and NSE might have different values of LTP because of demand and supply. 
+
+Pre-opening Market session - This session is to reduce the volatility of the stock market in the opening time. Also to avoid losses to small investors, the market stabilizes at 9:15 AM when the actual trading begins. It is a 15-min session from 9-9:15 to absorb the heavy fluctuations in the market caused by quick trading. 
+
+After market order - Orders placed between 4PM and 9AM the next day are called as AMO. AMO will always get executed at 9:15 AM the next day when the market opens. 
+
+Because of AMO's the opening share price might sometimes be higher or lower than the closing price of last day. 
+
+Gap up opening - When stock price starts higher than last day.
+Gap down opening - When the stock price starts lower than the previous day. 
+Unch - unchanged
+
+Bid price is the buying price of a share and Offer price is the selling price of a share. The number in brackets indicates the number of orders placed for buying/selling. 
+
+Volume - number of shares that were traded that day. 
+Check average volume for the shares to see if the day's volume is in-line with the averages. This would tell you many things about the share trends. 
+
+Also, check the lowest/highest price for the day and 52 week to get an idea of the extreme values of share prices. 
+
+Moneycontrol website - check side pane for corporate action. 
+
+Bonus paid is usually in ratio, 1:2 means that for each 2 shares that you hold, you will get one share. Same is the case with 3:4, that means for each 4 shares, you get 3 shares held. 
